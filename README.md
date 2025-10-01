@@ -1,6 +1,6 @@
 # 🎰 Casino Core Logic
 
-This project showcases the core logic behind a simple casino game. It’s designed as a reference implementation for learning and extending core casino functionality.
+This project showcases the core logic behind a simple casino game. It’s designed as a reference implementation for learning and extending core casino functionality...
 
 🚀For an enhanced Crash game experience with advanced logic and modular design, explore our dedicated repo here: https://github.com/HyperBuildX/Crash-Game-FE
 
@@ -18,7 +18,7 @@ This project showcases the core logic behind a simple casino game. It’s design
 - 🃏 Simple betting interface
 - 🧩 Modular code structure for easy extension
 - ⚙️ Deployed on Vercel for fast and reliable delivery
-
+.
 ---
 
 ## 🚀 Getting Started
